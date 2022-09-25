@@ -1,0 +1,3 @@
+User-agent: *
+Allow: / 
+Site: https//halamanslot.netlify.app/sitemap.xml
